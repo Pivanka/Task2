@@ -1,0 +1,12 @@
+D:\Internship\Task2\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Internship\Task2\DAL\bin\Debug\net6.0\DAL.dll
+D:\Internship\Task2\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Internship\Task2\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Internship\Task2\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Task2\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Internship\Task2\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Internship\Task2\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Internship\Task2\DAL\obj\Debug\net6.0\DAL.dll
+D:\Internship\Task2\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\Internship\Task2\DAL\obj\Debug\net6.0\DAL.pdb
+D:\Internship\Task2\DAL\obj\Debug\net6.0\ref\DAL.dll
