@@ -1,0 +1,15 @@
+D:\Internship\Task2\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\Internship\Task2\BLL\bin\Debug\net6.0\BLL.dll
+D:\Internship\Task2\BLL\bin\Debug\net6.0\BLL.pdb
+D:\Internship\Task2\BLL\bin\Debug\net6.0\DAL.dll
+D:\Internship\Task2\BLL\bin\Debug\net6.0\DAL.pdb
+D:\Internship\Task2\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\Internship\Task2\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Task2\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\Internship\Task2\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\Internship\Task2\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\Internship\Task2\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\Internship\Task2\BLL\obj\Debug\net6.0\BLL.dll
+D:\Internship\Task2\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\Internship\Task2\BLL\obj\Debug\net6.0\BLL.pdb
+D:\Internship\Task2\BLL\obj\Debug\net6.0\ref\BLL.dll
