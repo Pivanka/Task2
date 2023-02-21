@@ -19,6 +19,15 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<LibraryDbContext>
 (o => o.UseInMemoryDatabase("LibraryDb"));
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("EnableCORS", builder =>
+    {
+        builder.AllowAnyOrigin().
+        AllowAnyHeader().
+        AllowAnyMethod();
+    });
+});
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddValidatorsFromAssemblyContaining<AddBookValidator>();
@@ -46,6 +55,8 @@ if (app.Environment.IsDevelopment())
 app.UseMiddleware<ExceptionHandlerMiddleware>();
 
 app.UseHttpsRedirection();
+
+app.UseCors("EnableCORS");
 
 app.UseAuthorization();
 

@@ -7,6 +7,7 @@
         public string Author { get; set; }
         public string Cover { get; set; }
         public string Content { get; set; }
+        public string Genre { get; set; }
         public decimal Rating { get; set; }
         public IEnumerable<ReviewDto> Reviews { get; set; }
     }
